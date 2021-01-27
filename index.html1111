@@ -1,0 +1,17 @@
+
+<head> </head>
+
+  <!DOCTYPE html>
+  <html>
+  <body>
+ <title>Juan</title>
+ <h1>!!!!About me!!!!!</h1>
+<p>  My name is Juan Herrera Salcedo </p>
+<p>  but my artist name is BizaRrE </p>
+  <p> my insta below </p>
+  <a href="https://www.instagram.com/bizarrearts0/" title="About Me">About Me</a>
+
+  <img src="joker1.jpg" alt="joker" width="500" height="600">
+
+</body>
+</html>
